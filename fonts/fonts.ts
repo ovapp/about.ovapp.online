@@ -10,9 +10,15 @@ export const titleFont = Inter({
 })
 
 export const interSemi = Inter({
-    weight: "600",
+    weight: "800",
     subsets: ["latin"]
 })
+
+export const interSemiTwo = Inter({
+    weight: "700",
+    subsets: ["latin"]
+})
+
 
 export const secondaryFont = Poppins({
     weight: "400",
