@@ -296,7 +296,7 @@ export default function Page() {
         <h3 className="mb-[.5rem]">
           Interested? Contribute on the{" "}
           <Link
-            href="https://github.com/ovapp/OpenVoice"
+            href="https://github.com/ovapp"
             className="text-green-500 underline decoration-dotted transition-colors duration-200 ease-in-out hover:text-cyan-400 hover:decoration-solid"
           >
             repo

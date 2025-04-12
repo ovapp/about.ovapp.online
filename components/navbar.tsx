@@ -37,7 +37,7 @@ export default function Navbar(){
 interSemiTwo.className
             )}>[ovapp]</Link>
 
-            <Link href="https://github.com/ovapp/OpenVoice" passHref>
+            <Link href="https://github.com/ovapp" passHref>
             <Button className={cn(
 "float-right block text-center no-underline text-white bg-black mr-[12px] mt-[6px] w-[10rem] font-normal",
 "transition-transform duration-150 ease-in-out active:scale-95 hover:cursor-pointer",
